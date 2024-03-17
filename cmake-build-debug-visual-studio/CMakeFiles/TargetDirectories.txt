@@ -1,0 +1,3 @@
+Z:/SGD/cmake-build-debug-visual-studio/CMakeFiles/untitled.dir
+Z:/SGD/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+Z:/SGD/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
